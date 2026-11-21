@@ -1,12 +1,8 @@
-## Hi there 👋
+Hi, I'm Saleh Nabil 👋
 
-**Saleh-Nabil77/Saleh-Nabil77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Universiti Teknologi Malaysia (UTM), building my way into full-stack web development, starting from the front-end, with AI as my second track.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Software Enginnering
-- 👯 I’m looking to collaborate with Friends
-- 💬 Ask me about Anything
-- 📫 How to reach me: Call me
-- 😄 Pronouns: Always busy
-- ⚡ Fun fact: Nothing
+What I'm doing now
+🌱 Learning React and the back-end (Node.js + Express)
+🛠️ Building a real community website with a team of 4: a book-lending library, a weekly lessons schedule, and a feedback page → ala-basira-library
+📚 Studying software engineering at UTM, with an internship coming up
